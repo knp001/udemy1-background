@@ -36,9 +36,3 @@ function random255() {
 }
 
 window.addEventListener("load", setGradient);
-// 	function() {
-// 	// console.log("in loadListener");
-// 	// console.log(color1.value);
-// 	// console.log(color2.value);
-// 	setGradient();
-// });
